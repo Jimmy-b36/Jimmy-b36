@@ -6,8 +6,8 @@
 ```javascript
 const skills = {
 LANGUAGES: [JavaScript, Ruby, HTML, CSS, Typescript],
-FRAMEWORKS_LIBRARIES_ENVIROMENTS: [NodeJS, ReactJS, Ajax, Express,
-EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS, Prisma, Next.JS],
+FRAMEWORKS_LIBRARIES_ENVIROMENTS: [NodeJS, ReactJS, Ajax, Express, EJS,
+JQuery, Bootstrap, ActiveRecord, Rails, SASS, Prisma, Next.JS],
 TESTING: [Storybook, Cypress, RSpec, Jest, Mocha, Chai],
 SYSTEMS_DATABASES: [SQL, Git, PostgreSql]
 }
