@@ -14,7 +14,7 @@ SYSTEMS_DATABASES: [SQL, Git, PostgreSql]
 ```
 
 ### 🔭 I’m currently working on
-- An E-commerce website using React and Tailwind to solidify my understanding of creating and using custom React hooks.
+- A sorting algorithm visualiser
 
 ## 📫 Reach me here:
 
