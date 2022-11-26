@@ -14,7 +14,7 @@ SYSTEMS_DATABASES: [SQL, Git, PostgreSql]
 ```
 
 ### 🔭 I’m currently working on
-- Working my way through this [repo](https://github.com/florinpop17/app-ideas/tree/master/Projects)
+- My portfolio site
 
 ## 📫 Reach me here:
 
