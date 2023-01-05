@@ -14,7 +14,7 @@ SYSTEMS_DATABASES: [SQL, Git, PostgreSql]
 ```
 
 ### 🔭 I’m currently working on
-- My portfolio site
+- Learning Solidity
 
 ## 📫 Reach me here:
 
