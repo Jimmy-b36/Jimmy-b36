@@ -5,22 +5,19 @@
 
 ```javascript
 const skills = {
-LANGUAGES: [JavaScript, Ruby, HTML, CSS, Typescript, PHP],
-FRAMEWORKS_LIBRARIES_ENVIROMENTS: [NodeJS, ReactJS, VueJS, Ajax, Express, EJS,
-JQuery, Bootstrap, ActiveRecord, Rails, SASS, Prisma, Next.JS],
-TESTING: [Storybook, Cypress, RSpec, Jest, Mocha, Chai, Vitest],
-SYSTEMS_DATABASES: [SQL, Git, PostgreSql]
+LANGUAGES: [JavaScript, Typescript, Python, HTML, CSS, PHP, Ruby],
+FRAMEWORKS_LIBRARIES_ENVIROMENTS: [Vue.js (Nuxt3, Pinia, Vuetify), Node.js (Express, EJS), Laravel, jQuery, Ajax, Rails, Next.js],
+TESTING: [Storybook, Cypress, RSpec, Jest, Vitest],
+SYSTEMS_DATABASES: [SQL, Postgresql, Git, MongoDB, Pocketbase]
 }
 ```
 
 ### 🔭 I’m currently working on
-- Learning Solidity
+- A lesson planning web app
 
 ## 📫 Reach me here:
 
 [![Linkedin: James Ball](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-ball-57831a229/)
-[![Discord Jimmy-b](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Jimmy_b363#3543)
-[![Twitch: Jimmy_btv](https://img.shields.io/badge/Twitch-5865F2?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jimmy_btv)
 
 
 
