@@ -6,7 +6,7 @@
 ```javascript
 const skills = {
 LANGUAGES: [JavaScript, Typescript, Python, HTML, CSS, PHP, Ruby],
-FRAMEWORKS_LIBRARIES_ENVIROMENTS: [Vue.js (Nuxt3, Pinia, Vuetify), Node.js (Express, EJS), Laravel, jQuery, Ajax, Rails, Next.js],
+FRAMEWORKS_LIBRARIES_ENVIROMENTS: [Vue.js (Nuxt3, Pinia, Vuetify), React, Node.js (Express, EJS), Laravel, jQuery, Ajax, Rails, Next.js],
 TESTING: [Storybook, Cypress, RSpec, Jest, Vitest],
 SYSTEMS_DATABASES: [SQL, Postgresql, Git, MongoDB, Pocketbase]
 }
